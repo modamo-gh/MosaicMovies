@@ -1,3 +1,23 @@
 .navbar {
-    flex-grow: 1;
+	flex-grow: 1;
+	box-sizing: border-box;
+	background-image: linear-gradient(#641318, #000);
+}
+
+.links {
+	list-style: none;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	margin: 0;
+	font-weight: 300;
+	color: #f8dfe2;
+}
+
+a {
+	color: #f8dfe2;
+	text-decoration: none;
 }
