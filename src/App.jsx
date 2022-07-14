@@ -1,7 +1,14 @@
+import Navbar from "./Navbar.jsx";
+import NowShowing from "./NowShowing";
+import WelcomeBanner from "./WelcomeBanner.jsx";
 const App = () => {
     return (
-        <p>Test</p>
-    )
+		<>
+			<Navbar />
+            <WelcomeBanner />
+            <NowShowing />
+		</>
+	);
 }
 
 export default App;
