@@ -1,4 +1,19 @@
 .welcomeBanner {
     background-image: url("../images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
-    flex-grow: 10;
+    flex-grow: 5;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    color: #fbeae9;
+    padding: 30px;
+}
+
+.header {
+    font-size: 64px;
+}
+
+.subHeader {
+    font-style: italic;
+    font-weight: 300;
 }
