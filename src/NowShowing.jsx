@@ -1,6 +1,7 @@
+import styles from "./styles/NowShowing.module.css"
 const NowShowing = () => {
     return (
-        <p>Now Showing</p>
+        <p className={styles.nowShowing}>Now Showing</p>
     )
 }
 

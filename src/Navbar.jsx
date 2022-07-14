@@ -1,6 +1,7 @@
+import styles from "./styles/Navbar.module.css";
 const Navbar = () => {
     return (
-        <p>Navbar</p>
+        <p className={styles.navbar}>Navbar</p>
     )
 }
 

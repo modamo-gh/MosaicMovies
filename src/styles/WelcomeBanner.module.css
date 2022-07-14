@@ -1,3 +1,4 @@
 .welcomeBanner {
     background-image: url("../images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
+    flex-grow: 10;
 }
