@@ -1,3 +1,5 @@
 .nowShowing {
     flex-grow: 10;
+    display: flex;
+    width: 100%;
 }
