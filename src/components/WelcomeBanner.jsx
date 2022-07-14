@@ -1,4 +1,4 @@
-import styles from "./styles/WelcomeBanner.module.css";
+import styles from "../styles/WelcomeBanner.module.css";
 
 const WelcomeBanner = () => {
 	return (
