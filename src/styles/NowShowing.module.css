@@ -1,5 +1,7 @@
 .nowShowing {
     flex-grow: 10;
     display: flex;
-    width: 100%;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
 }

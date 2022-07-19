@@ -2,7 +2,8 @@
     background-image: url("../images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
     flex-grow: 5;
     background-repeat: no-repeat;
-    width: 100%;
+    left: 0;
+    right: 0;
     background-position: center;
     background-size: 100%;
     color: #f8dfe2;

@@ -2,6 +2,8 @@
 	flex-grow: 1;
 	box-sizing: border-box;
 	background-image: linear-gradient(#641318, #000);
+	left: 0;
+	right: 0;
 }
 
 .links {
