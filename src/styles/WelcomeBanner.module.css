@@ -1,5 +1,5 @@
 .welcomeBanner {
-    background-image: url("../images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
+    background-image: linear-gradient(rgb(0, 0, 0, 1),rgba(255, 255, 255, 0), rgb(0, 0, 0, 1)), url("/src/images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
     flex-grow: 5;
     background-repeat: no-repeat;
     left: 0;

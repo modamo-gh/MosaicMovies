@@ -6,9 +6,9 @@
     right: 0;
     margin: 5% 2.5%;
     border: 5px solid black;
-    border-radius: 5%;
     overflow: hidden;
     padding: 15px;
+    background: white;
 }
 
 .image {
