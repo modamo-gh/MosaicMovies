@@ -1,14 +1,12 @@
 .moviePoster {
-    flex-grow: 1;
-    width: 14%;
-    height: 90%;
-    left: 0;
-    right: 0;
-    margin: 5% 2.5%;
-    border: 5px solid black;
+    max-width: 100%;
+    width: 300px;
+    border: 5px solid rgb(0, 0, 0);
     overflow: hidden;
     padding: 15px;
-    background: white;
+    margin: 0 20px;
+    background: rgb(28, 28, 33);
+    color: white;
 }
 
 .image {
