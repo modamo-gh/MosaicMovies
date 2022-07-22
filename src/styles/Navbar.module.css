@@ -22,4 +22,10 @@
 a {
 	color: #f8dfe2;
 	text-decoration: none;
+	margin: 5px;
+}
+
+.avatar {
+	width: 40px;
+	border-radius: 50%;
 }

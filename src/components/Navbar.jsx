@@ -1,3 +1,4 @@
+import avatar from "../images/download20210405212609.png";
 import styles from "../styles/Navbar.module.css";
 const Navbar = () => {
     return (
@@ -18,7 +19,9 @@ const Navbar = () => {
 				<a href="#">
 					<li>Contact Us</li>
 				</a>
-				<li>Avatar</li>
+				<a href="#">
+					<img src={avatar} className={styles.avatar} />
+				</a>
 			</ul>
 		</nav>
 	);
