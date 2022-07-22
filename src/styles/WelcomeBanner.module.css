@@ -1,10 +1,10 @@
 .welcomeBanner {
     background-image: linear-gradient(rgb(0, 0, 0, 1),rgba(255, 255, 255, 0), rgb(0, 0, 0, 1)), url("/src/images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
-    flex-grow: 5;
+    flex-grow: 1;
     background-repeat: no-repeat;
     left: 0;
     right: 0;
-    background-position: center;
+    background-position:center;
     background-size: 100%;
     color: #f8dfe2;
     padding: 30px;
